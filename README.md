@@ -12,3 +12,5 @@ multiperceptron networks, autoencoders, and more. All the code was written in Py
   - I have also included my final project report, which is an exploration of variational autoencoders. I wanted to explore the
 reconstructive capabilities of different VAE architectures and their latent space representations on the cifar-10 dataset, a more complex
 10 category dataset compared to the MNIST digits.
+
+*Note: I have not included all of the pictures and supplmental files that were used in all the assignments, these are rather just pieces of code, explanations, and discussions from my deep learning course.
